@@ -1,0 +1,34 @@
+<testinfo>
+<checker>$fc</checker>
+<memorylimit>268435456</memorylimit>
+<timelimit>1000</timelimit>
+<testversion>1</testversion>
+<runtype>0</runtype>
+<test input="input01.txt" output="output01.txt" points="0"/>
+<test input="input02.txt" output="output02.txt" points="0"/>
+<test input="input03.txt" output="output03.txt" points="0"/>
+<test input="input04.txt" output="output04.txt" points="0"/>
+<test input="input05.txt" output="output05.txt" points="5"/>
+<test input="input06.txt" output="output06.txt" points="0"/>
+<test input="input07.txt" output="output07.txt" points="0"/>
+<test input="input08.txt" output="output08.txt" points="10"/>
+<test input="input09.txt" output="output09.txt" points="0"/>
+<test input="input10.txt" output="output10.txt" points="0"/>
+<test input="input11.txt" output="output11.txt" points="0"/>
+<test input="input12.txt" output="output12.txt" points="0"/>
+<test input="input13.txt" output="output13.txt" points="0"/>
+<test input="input14.txt" output="output14.txt" points="15"/>
+<test input="input15.txt" output="output15.txt" points="0"/>
+<test input="input16.txt" output="output16.txt" points="0"/>
+<test input="input17.txt" output="output17.txt" points="0"/>
+<test input="input18.txt" output="output18.txt" points="20"/>
+<test input="input19.txt" output="output19.txt" points="0"/>
+<test input="input20.txt" output="output20.txt" points="0"/>
+<test input="input21.txt" output="output21.txt" points="0"/>
+<test input="input22.txt" output="output22.txt" points="20"/>
+<test input="input23.txt" output="output23.txt" points="0"/>
+<test input="input24.txt" output="output24.txt" points="0"/>
+<test input="input25.txt" output="output25.txt" points="0"/>
+<test input="input26.txt" output="output26.txt" points="0"/>
+<test input="input27.txt" output="output27.txt" points="30"/>
+</testinfo>

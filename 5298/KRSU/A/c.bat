@@ -1,0 +1,29 @@
+judge.exe <input01.txt >output01.txt
+judge.exe <input02.txt >output02.txt
+judge.exe <input03.txt >output03.txt
+judge.exe <input04.txt >output04.txt
+judge.exe <input05.txt >output05.txt
+judge.exe <input06.txt >output06.txt
+judge.exe <input07.txt >output07.txt
+judge.exe <input08.txt >output08.txt
+judge.exe <input09.txt >output09.txt
+judge.exe <input10.txt >output10.txt
+judge.exe <input11.txt >output11.txt
+judge.exe <input12.txt >output12.txt
+judge.exe <input13.txt >output13.txt
+judge.exe <input14.txt >output14.txt
+judge.exe <input15.txt >output15.txt
+judge.exe <input16.txt >output16.txt
+judge.exe <input17.txt >output17.txt
+judge.exe <input18.txt >output18.txt
+judge.exe <input19.txt >output19.txt
+judge.exe <input20.txt >output20.txt
+judge.exe <input21.txt >output21.txt
+judge.exe <input22.txt >output22.txt
+judge.exe <input23.txt >output23.txt
+judge.exe <input24.txt >output24.txt
+judge.exe <input25.txt >output25.txt
+judge.exe <input26.txt >output26.txt
+judge.exe <input27.txt >output27.txt
+
+                    

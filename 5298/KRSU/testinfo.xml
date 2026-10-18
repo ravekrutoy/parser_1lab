@@ -1,0 +1,16 @@
+<testinfo>
+<checker>checker.exe</checker>
+<interactor>interactor.exe</interactor>
+<problem>problem.tex</problem>
+<memorylimit>268435456</memorylimit>
+<timelimit>1000</timelimit>
+<testversion>1</testversion>
+<runtype>0</runtype>
+<group id="1" points="10" prereq="" />
+<group id="2" points="20" prereq="1"/>
+<group id="3" points="20" prereq="1,2"/>
+<test input="input01.txt" output="output01.txt" groupid="1" points="0"/>
+<test input="input02.txt" output="output02.txt" groupid="2" points="0"/>
+<test input="input03.txt" output="output03.txt" groupid="2" points="0"/>
+<test input="input04.txt" output="output04.txt" groupid="3" points="0"/>
+</testinfo>
